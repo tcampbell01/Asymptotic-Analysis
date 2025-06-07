@@ -2,6 +2,6 @@
   "remoteURL": "https://github.com/tcampbell01/Asymptotic-Analysis.git",
   "gitLocation": "",
   "syncinterval": 15,
-  "isSyncOnLoad": false,
-  "checkStatusOnLoad": true
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": false
 }
