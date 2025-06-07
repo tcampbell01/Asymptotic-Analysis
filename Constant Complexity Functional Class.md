@@ -28,3 +28,18 @@ def number_of_edges(nodes):
 	return result
 
 ```
+
+This is O(n)
+
+Change it to constant? 
+
+
+```python
+
+def number_of_edges(nodes):
+	return nodes * (nodes - 1) / 2
+
+```
+
+This is O(1) because it doesn't change based on the size of the input 
+
