@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +176,10 @@
       "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "79d7f44cab4c3fee",
+  "active": "014124e13698942c",
   "lastOpenFiles": [
     "Test.md",
     "Linear Complexity Functional Class.md"
