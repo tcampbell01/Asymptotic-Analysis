@@ -37,3 +37,10 @@ def str_equals(str_a, str_b):
 
 ```
 
+Complexity: O(n + 2) BUT we don't need the +2 because we drop the constant = O(n)
+
+Best case: it will return false almost immediately when the strings are not the same length O(1)
+Worst case: When we have a complete match because we have to iterate over every character that we have O(n)
+
+
+

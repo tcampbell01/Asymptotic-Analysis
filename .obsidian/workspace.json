@@ -11,14 +11,12 @@
             "id": "014124e13698942c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diagram-edit",
               "state": {
-                "file": "Linear Complexity Functional Class.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Diagram.svg"
               },
               "icon": "lucide-file",
-              "title": "Linear Complexity Functional Class"
+              "title": "Untitled Diagram.svg"
             }
           }
         ]
@@ -163,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +179,6 @@
   "active": "014124e13698942c",
   "lastOpenFiles": [
     "Linear Complexity Functional Class.md",
-    "Linear Complexity Functional Class.md"
+    "Untitled Diagram.svg"
   ]
 }

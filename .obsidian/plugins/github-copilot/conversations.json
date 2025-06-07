@@ -1,0 +1,29 @@
+{
+  "conversations": [
+    {
+      "id": "1749331302079",
+      "title": "how do I flip an element in dr...",
+      "messages": [
+        {
+          "id": "1749331302079",
+          "content": "how do I flip an element in draw.io",
+          "role": "user",
+          "timestamp": 1749331302079
+        },
+        {
+          "id": "chatcmpl-BfvGwErZPsBvhoCtNXy1bmwlxiCZi",
+          "content": "To flip an element in draw.io, follow these steps:\n\n1. **Select the Element**: Click on the element you want to flip to select it.\n\n2. **Open the Arrange Menu**: Go to the top menu and click on \"Arrange.\"\n\n3. **Choose Flip Option**: In the dropdown menu, you'll see options for \"Flip Horizontal\" and \"Flip Vertical.\" Choose the one that suits your needs:\n   - **Flip Horizontal**: This will flip the element along the vertical axis.\n   - **Flip Vertical**: This will flip the element along the horizontal axis.\n\nAlternatively, you can use the context menu:\n\n1. **Right-Click the Element**: Right-click on the element you want to flip.\n\n2. **Select \"Flip\"**: In the context menu, hover over \"Flip\" and then choose either \"Horizontal\" or \"Vertical.\"\n\nThese steps will allow you to flip your selected element in draw.io.",
+          "role": "assistant",
+          "timestamp": 1749331304954
+        }
+      ],
+      "createdAt": 1749331302079,
+      "updatedAt": 1749331304954,
+      "model": {
+        "label": "GPT-4o",
+        "value": "gpt-4o-2024-08-06"
+      }
+    }
+  ],
+  "activeConversationId": "1749331302079"
+}
