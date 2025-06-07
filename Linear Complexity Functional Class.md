@@ -44,3 +44,6 @@ Worst case: When we have a complete match because we have to iterate over every 
 
 
 
+![[Screenshot 2025-06-07 at 5.26.40 PM.png 
+
+A straight line would indicate a linear complexity.  A faster algortihm would have  a shallower gradient, a slower one would have a steeper gradiant 
