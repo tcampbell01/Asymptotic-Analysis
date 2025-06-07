@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Linear Complexity Functional Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Linear Complexity Functional Class"
             }
           }
         ]
@@ -181,7 +181,7 @@
   },
   "active": "014124e13698942c",
   "lastOpenFiles": [
-    "Test.md",
+    "Linear Complexity Functional Class.md",
     "Linear Complexity Functional Class.md"
   ]
 }
