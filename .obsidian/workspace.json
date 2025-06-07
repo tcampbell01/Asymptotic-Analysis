@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7398bb3cae570193",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd05e137df17502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0512bf9fe51c54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Complexity Functional Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Complexity Functional Class"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ddf1d1888045722",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f1c870dc017167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fedb8fc4bc71b3d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3af72dca84557f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43bb25fa5b296d08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24f94089c8e0d92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e887bd73fdc0a4ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fadaa5e88db1b40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Complexity Functional Class.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linear Complexity Functional Class"
+            }
+          },
+          {
+            "id": "2910563b2ca38a86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear Complexity Functional Class.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linear Complexity Functional Class"
+            }
+          },
+          {
+            "id": "16a6555e2bc298eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25e4f7bd820e9a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linear Complexity Functional Class.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Linear Complexity Functional Class"
+            }
+          },
+          {
+            "id": "79d7f44cab4c3fee",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "e0512bf9fe51c54f",
+  "lastOpenFiles": [
+    "Linear Complexity Functional Class.md"
+  ]
+}
