@@ -34,12 +34,12 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Week 7: Additional Topics in zyBooks
 - [ ] Week 10 homework
 
 
 ## Done
 
+- [ ] Week 7: Additional Topics in zyBooks
 
 
 ## To study!
