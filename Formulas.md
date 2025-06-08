@@ -1,4 +1,5 @@
 
-The formula for "**n choose r**" — written as (nr)\binom{n}{r}(rn​) — is:
+The formula for "**n choose r**" — C(n,r) = 
 
-(nr)=n!r!(n−r)!\binom{n}{r} = \frac{n!}{r!(n - r)!}(rn​)=r!(n−r)!n!​
+n! / r!(n-r)!
+
