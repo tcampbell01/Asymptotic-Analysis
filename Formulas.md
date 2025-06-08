@@ -14,6 +14,12 @@ n! / k1! * k2! * k3! ....
 Where n! = total permutations if all items were distinct
 k1! * k2! * k3! ... factorials of the counts of each group of identical items 
 
+PEPPER: 
 6! / 3! * 2! * 1! 
+
+6 * 5 * 4 * 3 * 2 / 12 
+
+HAPPY: 
+5!/ 2! 
 
 
