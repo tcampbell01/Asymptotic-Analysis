@@ -1,7 +1,7 @@
 
 Problem 1: 
 
-
+LINEAR
 ```cpp
 
 for (int i = 0; i < n; i++) {
@@ -56,6 +56,11 @@ Problem 5:
 
 ```cpp
 
+for (int i = 0; i < n; i++) {
+    for (int j = 1; j < n; j *= 2) {
+        cout << i + j << endl;
+    }
+}
 
 
 ```
