@@ -25,3 +25,6 @@ def merge_sort(items):
 	
 ```
 
+Merge part of the algorithm has O(n ---> linear)
+
+Merge_sort splits the input as it goes along... so n/2 ... log(base 2)n 
