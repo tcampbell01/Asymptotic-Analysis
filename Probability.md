@@ -61,4 +61,4 @@ B6 R4
 B6 R5
 B6 R6
 
-The complement of an event: 
+The complement of an event: The probability that an event doesn't happen can be easier to determine than the probability that the event does happen.

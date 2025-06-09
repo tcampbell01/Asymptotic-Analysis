@@ -83,8 +83,7 @@
               "title": "Probability"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +242,10 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "3fdf3b1270a08dff",
+  "active": "f0d69392bcd4555a",
   "lastOpenFiles": [
-    "Quadratic Class or Quadratic Function Class.md",
     "Probability.md",
+    "Quadratic Class or Quadratic Function Class.md",
     "Screenshot 2025-06-07 at 5.26.40 PM.png",
     "Problems- determine asymptotic complexity.md",
     "Permutations vs subsets.md",
