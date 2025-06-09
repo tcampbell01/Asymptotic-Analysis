@@ -6,15 +6,43 @@ The probability distribution in which every outcome has the same probability is 
 3 flips of a coin: 
 
 B1 R1
-B1 R2
+B1 R2 * *
 B1 R3
 B1 R4
 B1 R5
 B1 R6
+
 B2 R1
 B2 R2
-B2 R3
+B2 R3 * *
 B2 R4
 B2 R5
-B2 $6
+B2 R6
 
+B3 R1
+B3 R2
+B3 R3
+B3 R4 **
+B3 R5
+B3 R6
+
+B4 R1
+B4 R2
+B4 R3
+B4 R4
+B4 R5* 
+B4 R6
+
+B5 R1
+B5 R2
+B5 R3
+B5 R4
+B5 R5 
+B5 R6* 
+
+B6 R1
+B6 R2
+B6 R3
+B6 R4
+B6 R5
+B6 R6
