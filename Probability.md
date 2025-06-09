@@ -5,10 +5,16 @@ The probability distribution in which every outcome has the same probability is 
 
 3 flips of a coin: 
 
-HHH
-TTT
-HTT
-HHT
-THT
-TTH
-HTH
+B1 R1
+B1 R2
+B1 R3
+B1 R4
+B1 R5
+B1 R6
+B2 R1
+B2 R2
+B2 R3
+B2 R4
+B2 R5
+B2 $6
+
