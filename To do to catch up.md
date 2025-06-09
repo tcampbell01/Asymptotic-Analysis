@@ -29,7 +29,6 @@ kanban-plugin: board
 - [ ] Week 9 Random Variables in zybooks
 - [ ] Week 9 conditional probability in zyBooks
 - [ ] Week 9 Probability Basics in zyBooks
-- [ ] Week 7: Permutations and Combinations in zyBooks
 
 
 ## In Progress
@@ -39,6 +38,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Week 7: Permutations and Combinations in zyBooks
 - [ ] Week 7: Additional Topics in zyBooks
 
 
