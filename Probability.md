@@ -3,7 +3,21 @@
 
 The probability distribution in which every outcome has the same probability is called the uniform distribution.
 
+P(A U B) = P(A) + P(B) - p(A interset B)
+
+1/4 + 1/4 - 1/8 = 
+
 3 flips of a coin: 
+HHH
+HHT
+HTT
+TTT
+TTH
+THH
+HTH
+THT
+
+What is the probability that the first two flips are heads or the last two flips are heads
 
 B1 R1
 B1 R2 * *
@@ -46,3 +60,5 @@ B6 R3
 B6 R4
 B6 R5
 B6 R6
+
+The complement of an event: 
