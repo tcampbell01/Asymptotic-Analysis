@@ -11,24 +11,14 @@
             "id": "f0d69392bcd4555a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To do to catch up.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Probability.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To do to catch up"
+              "icon": "lucide-file",
+              "title": "Probability"
             }
           },
           {
@@ -244,6 +234,7 @@
   },
   "active": "f0d69392bcd4555a",
   "lastOpenFiles": [
+    "To do to catch up.md",
     "Probability.md",
     "Quadratic Class or Quadratic Function Class.md",
     "Screenshot 2025-06-07 at 5.26.40 PM.png",
@@ -253,7 +244,6 @@
     "Formulas.md",
     "Exponential Complexity Class.md",
     "Constant Complexity Functional Class.md",
-    "To do to catch up.md",
     "Untitled Kanban.md",
     "Log Linear Complexity.md",
     "Log Linear Class.md",
