@@ -69,3 +69,5 @@ p(E intersect F)/p(F)
 Two events are independent if conditioning on one event does not change the probability of the other event. A formal description in terms of probabilities is given below:
 
 p(F intersect E) = p(F) * p(E)
+
+2/7 * 5/7 = 10/49
