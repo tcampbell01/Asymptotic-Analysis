@@ -65,3 +65,5 @@ The complement of an event: The probability that an event doesn't happen can be 
 
 Conditional Probability: 
 p(E intersect F)/p(F)
+
+Two events are independent if conditioning on one event does not change the probability of the other event. A formal description in terms of probabilities is given below:
