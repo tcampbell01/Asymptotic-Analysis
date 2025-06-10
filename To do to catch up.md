@@ -16,7 +16,6 @@ kanban-plugin: board
 
 ## To do Modules
 
-- [ ] Watch Module 11 - Pointers and Dynamic Storage
 
 
 ## To do Homework
@@ -37,6 +36,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Watch Module 11 - Pointers and Dynamic Storage
 - [ ] Week 9 Probability Basics in zyBooks
 - [ ] Week 7: Permutations and Combinations in zyBooks
 - [ ] Week 7: Additional Topics in zyBooks
