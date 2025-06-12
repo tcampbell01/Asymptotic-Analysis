@@ -71,3 +71,18 @@ Two events are independent if conditioning on one event does not change the pr
 p(F intersect E) = p(F) * p(E)
 
 2/7 * 5/7 = 10/49
+
+
+Probability: 
+
+|   |   |   |
+|---|---|---|
+|**Situation / Clue in Problem**|**Use Complement?**|**How to Approach**|
+|**‘At least one’ (e.g., at least one club, at least one match)**|✅ Yes|Use 1 - P(none of the desired item)|
+|**‘At most’ (e.g., at most two red cards)**|✅ Yes|Use 1 - P(more than the allowed number)|
+|**‘None of’ (e.g., no hearts in hand)**|✅ Yes|Count total hands with none of the type and subtract from total|
+|**‘Not all’ (e.g., not all dice match)**|✅ Yes|Same as ‘at least one not…’ so use complement|
+|**‘Exactly k items’ (e.g., exactly one pair)**|❌ No|Count exactly how many satisfy the given value of k|
+|**‘Specific type of hand’ (e.g., full house, flush)**|❌ No|Use direct combinatorics (choose ranks, suits, etc.)|
+|**‘Event is hard to count directly’**|✅ Often|Complement may be shorter than listing all favorable outcomes|
+|**‘Total - unwanted cases is easier’**|✅ Definitely|Use: P(A) = 1 - P(not A)|
